@@ -50,7 +50,7 @@ body{
 
 
 <header>
-  <ul><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQH8C9iMcnpulQ/company-logo_200_200/0?e=2159024400&v=beta&t=yfo7NZHdBqcj9-VBeu39LFngLBCPF0FOF6ZppvPQbIY">
+  <ul><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Ftrupt-acharya-91079014a&psig=AOvVaw0bMx_x9h-6JkPD5Jw5osid&ust=1601311259667000&source=images&cd=vfe&ved=0CAIQjRxqGAoTCODL37jjiewCFQAAAAAdAAAAABCZBw">
   <li><a href="default.asp">Home</a></li>
   <li><a href="news.asp">News</a></li>
   <li><a href="contact.asp">Contact</a></li>
