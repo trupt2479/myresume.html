@@ -38,14 +38,14 @@ section div:nth-child(odd) {
   background-color: yellow;
 }
 body{
-  background-image: url("https://wallpapercave.com/wp/5KnwccW.jpg")
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Ftrupt-acharya-91079014a&psig=AOvVaw0bMx_x9h-6JkPD5Jw5osid&ust=1601311259667000&source=images&cd=vfe&ved=0CAIQjRxqGAoTCODL37jjiewCFQAAAAAdAAAAABCZBw")
   background-size: 100%;
 }
 
 </style>
 </head>
 <body>
-<h1>Republic of Hackers</h1>
+<h1>Trupt Manoj Acharya</h1>
 
 
 
