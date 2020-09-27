@@ -51,10 +51,10 @@ body{
 
 <header>
   <ul><img src="https://media-exp1.licdn.com/dms/image/C5603AQFSoA1NAcnnFw/profile-displayphoto-shrink_200_200/0?e=1601510400&v=beta&t=9URsLtXdoS-2fkIYj340W6TN94oi2di6RkJokPN3tQc">
-  <li><a href="default.asp">Home</a></li>
-  <li><a href="news.asp">News</a></li>
-  <li><a href="contact.asp">Contact</a></li>
-  <li><a href="about.asp">About</a></li>
+  <li><a href="https://github.com/trupt2479/myresume.html">Home</a></li>
+  <li><a href="https://www.linkedin.com/in/trupt-acharya-91079014a/">Linkedin</a></li>
+  <li><a href="https://www.facebook.com/trupt.acharya/">Facebook</a></li>
+  <li><a href="https://www.instagram.com/truptacharya/">Instagram</a></li>
 </ul>
 </header>
 
