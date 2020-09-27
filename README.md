@@ -1,4 +1,3 @@
-# myresume.html
 <!DOCTYPE html>
 <html>
 <head>
